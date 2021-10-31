@@ -1,0 +1,8 @@
+2021-10-21 23:48:59,821  INFO [main] ELocalStoreApp:11 -  Navigated to the expected page
+ 2021-10-21 23:49:01,327  INFO [main] ELocalStoreApp:11 - The Values are accesed from the Excel sheet into SearchBox
+ 2021-10-21 23:49:08,597 ERROR [main] ELocalStoreApp:19 - The Desired book is selected
+ 2021-10-21 23:49:08,923  INFO [main] ELocalStoreApp:11 - Price of product is Rs. 489.00
+ 2021-10-21 23:49:48,073  INFO [main] ELocalStoreApp:11 - Checkout could not be done
+ 2021-10-21 23:50:18,394  INFO [main] ELocalStoreApp:11 - Could not reach Login Page
+ 2021-10-21 23:50:18,748  INFO [main] ELocalStoreApp:11 - Login not successful
+ 

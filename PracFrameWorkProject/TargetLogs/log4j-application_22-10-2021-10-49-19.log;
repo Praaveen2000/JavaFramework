@@ -1,0 +1,5 @@
+2021-10-22 10:49:29,992  INFO [main] ELocalStoreApp:11 -  Navigated to the expected page
+ 2021-10-22 10:49:30,891  INFO [main] ELocalStoreApp:11 - Login Page appears succesfully
+ 2021-10-22 10:49:31,081  INFO [main] ELocalStoreApp:11 - Login not successful
+ 2021-10-22 10:49:35,851  INFO [main] ELocalStoreApp:11 - The Values are accesed from the Excel sheet into SearchBox
+ 

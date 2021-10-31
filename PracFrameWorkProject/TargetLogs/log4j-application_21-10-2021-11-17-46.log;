@@ -1,0 +1,4 @@
+2021-10-21 23:17:55,506  INFO [main] ELocalStoreApp:11 -  Navigated to the expected page
+ 2021-10-21 23:17:57,214  INFO [main] ELocalStoreApp:11 - The Values are accesed from the Excel sheet into SearchBox
+ 2021-10-21 23:18:16,037 ERROR [main] ELocalStoreApp:19 - The Desired book could not be selected
+ 
