@@ -17,7 +17,7 @@ pipeline{
 	   steps{
 	   bat '''
 	   cd PracFrameWorkProject
-	   mvn test
+	   mvn clean test
 	   '''
 	   junit '**/test-output/junitreports/TEST-*.xml'
 	   }
