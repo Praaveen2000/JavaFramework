@@ -8,7 +8,7 @@ pipeline{
 	   steps{
            bat '''
            cd PracFrameWorkProject
-	   mvn clear compile
+	   mvn clean compile
 	   '''
 	   }
 	   }
