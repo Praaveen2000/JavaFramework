@@ -4,11 +4,6 @@ pipeline{
 	   maven 'Maven Home'
 	   }
 	   stages{
-	   stage('GIT checkout'){
-	   steps{
-	      git 'https://github.com/Praaveen2000/JavaFramework.git'
-	   }
-	   }
 	   stage('Build'){
 	   steps{
 	   bat 'mvn clear compile'
