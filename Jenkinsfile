@@ -15,7 +15,10 @@ pipeline{
 	   }
 	   stage('Test'){
 	   steps{
-	   bat 'mvn test'
+	   bat '''
+	   cd PracFrameWorkProject
+	   mvn test
+	   '''
 	   junit '**/test-output/junitreports/TEST-*.xml'
 	   }
 	   }
