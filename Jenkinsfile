@@ -19,7 +19,7 @@ pipeline{
 	   cd PracFrameWorkProject
 	   mvn clean test
 	   '''
-	   junit '**/test-output/junitreports/TEST-*.xml'
+	   junit '**/target/surefire-reports/TEST-*.xml'
 	   }
 	   }
 	   stage('Final'){
