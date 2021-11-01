@@ -6,7 +6,10 @@ pipeline{
 	   stages{
 	   stage('Build'){
 	   steps{
-	   bat 'mvn clear compile'
+           bat '''
+           cd PracFrameWorkProject
+	   mvn clear compile
+	   '''
 	   }
 	   }
 	   stage('Test'){
