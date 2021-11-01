@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51392" started-at="2021-10-22T12:55:18 IST" finished-at="2021-10-22T12:56:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51392" started-at="2021-10-22T12:55:18 IST" finished-at="2021-10-22T12:56:09 IST">
+      <class name="com.mindtree.runner.ELocalStoreApp">
+        <test-method status="PASS" signature="set()[pri:0, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="set" is-config="true" duration-ms="10092" started-at="2021-10-22T12:55:18 IST" finished-at="2021-10-22T12:55:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="titleCheck()[pri:1, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="titleCheck" duration-ms="512" started-at="2021-10-22T12:55:28 IST" finished-at="2021-10-22T12:55:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+        <test-method status="PASS" signature="meth()[pri:0, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="meth" is-config="true" duration-ms="3" started-at="2021-10-22T12:55:28 IST" finished-at="2021-10-22T12:55:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+        <test-method status="PASS" signature="loginCheck(java.lang.String, java.lang.String)[pri:2, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="loginCheck" duration-ms="1640" started-at="2021-10-22T12:55:28 IST" data-provider="Logindatas" finished-at="2021-10-22T12:55:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asasas@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asasas123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method status="PASS" signature="meth()[pri:0, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="meth" is-config="true" duration-ms="1" started-at="2021-10-22T12:55:30 IST" finished-at="2021-10-22T12:55:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+        <test-method status="PASS" signature="bookCheckout()[pri:3, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="bookCheckout" duration-ms="34567" started-at="2021-10-22T12:55:30 IST" finished-at="2021-10-22T12:56:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookCheckout -->
+        <test-method status="PASS" signature="meth()[pri:0, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="meth" is-config="true" duration-ms="0" started-at="2021-10-22T12:56:05 IST" finished-at="2021-10-22T12:56:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.mindtree.runner.ELocalStoreApp@2038ae61]" name="end" is-config="true" duration-ms="4503" started-at="2021-10-22T12:56:05 IST" finished-at="2021-10-22T12:56:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.mindtree.runner.ELocalStoreApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
